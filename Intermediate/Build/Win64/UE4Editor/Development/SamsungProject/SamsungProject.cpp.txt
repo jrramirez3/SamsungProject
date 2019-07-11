@@ -1,0 +1,2 @@
+C:\Users\Windows User\Documents\SamsungProject\Intermediate\Build\Win64\UE4Editor\Development\SamsungProject\Definitions.SamsungProject.h
+c:\users\windows user\documents\samsungproject\source\samsungproject\SamsungProject.h
