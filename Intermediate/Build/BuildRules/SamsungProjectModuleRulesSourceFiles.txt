@@ -1,3 +1,0 @@
-C:\Users\Windows User\Documents\SamsungProject\Source\SamsungProject\SamsungProject.Build.cs
-C:\Users\Windows User\Documents\SamsungProject\Source\SamsungProject.Target.cs
-C:\Users\Windows User\Documents\SamsungProject\Source\SamsungProjectEditor.Target.cs
